@@ -52,21 +52,32 @@ AUC is used in the training curve and is computed for the training, validation a
 
 2. What curve does "AUC" refer to? Plot this curve for the saved model evaluated on the test set.
 In this case it is the ROC curve that the AUC refers to.
-![alt text](<ROC Curve.png>)
+<img width="700" height="600" alt="image" src="https://github.com/user-attachments/assets/ee4ce505-e6f9-4efc-98af-0383d53f1395" />
+
 
 3. From the test set, find examples for 5 classes of your choice:
    - One example where the model correctly predicts the class
-   Class 0: ![alt text](image-1.png)
-   Class 1: ![alt text](class1_correct.png)
-   Class 2: ![alt text](class2_correct.png)
-   Class 5: ![alt text](class5_correct.png)
-   Class 7: ![alt text](class7_correct.png)
+   Class 0: <img width="389" height="409" alt="image" src="https://github.com/user-attachments/assets/6408d693-8ee8-4b4a-90e7-76176f7691c5" />
+
+   Class 1: <img width="389" height="409" alt="image" src="https://github.com/user-attachments/assets/6041a824-3ae0-4de4-8353-1f956bebc63e" />
+
+   Class 2: <img width="389" height="409" alt="image" src="https://github.com/user-attachments/assets/42a97760-f3e3-465c-89eb-b410c2667a46" />
+
+   Class 5: <img width="389" height="409" alt="class5_correct" src="https://github.com/user-attachments/assets/8f55b9c5-917b-4d5b-a9ec-c8ecfdfb0164" />
+
+   Class 7: <img width="389" height="409" alt="class7_correct" src="https://github.com/user-attachments/assets/c5b92eff-4fca-427e-bf6d-01cb5f881fd1" />
+
 
    - One example where the model incorrectly predicts the class
-   Class 0: ![alt text](class0_incorrect.png)
-   Class 1: ![alt text](class1_incorrect.png)
-   Class 2: ![alt text](class2_incorrect.png)
-   Class 3: ![alt text](class3_incorrect.png)
-   Class 4: ![alt text](class4_incorrect.png)
+   Class 0: <img width="389" height="409" alt="class0_incorrect" src="https://github.com/user-attachments/assets/bfd8fdf6-c45b-48b4-8f88-d3d8f2cbf3ba" />
+
+   Class 1: <img width="389" height="409" alt="class1_incorrect" src="https://github.com/user-attachments/assets/dfab2230-51fc-4bc4-bb9a-2a906ed73780" />
+
+   Class 2: <img width="389" height="409" alt="class2_incorrect" src="https://github.com/user-attachments/assets/5da8327f-13dc-4c71-9e3a-b989721094f5" />
+
+   Class 3: <img width="389" height="409" alt="class3_incorrect" src="https://github.com/user-attachments/assets/803b7d78-20ad-4cef-8df9-7b15a56bc7ce" />
+
+   Class 4: <img width="389" height="409" alt="class4_incorrect" src="https://github.com/user-attachments/assets/f49bc51b-71a5-410b-b5d4-f9a72934caf2" />
+
 
    Include the images in your report (total: 10 images).
